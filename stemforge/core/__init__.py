@@ -1,0 +1,1 @@
+"""Core engine — separation orchestration, backends, and audio math."""
