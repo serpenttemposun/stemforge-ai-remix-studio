@@ -1,0 +1,1 @@
+"""Services — orchestration above handlers, below the UI/CLI."""
